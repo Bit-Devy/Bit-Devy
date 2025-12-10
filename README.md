@@ -19,3 +19,6 @@
 ## 📫 Contato
 - Email: Davi.r.c.mascarenhas@gmail.com
 - GitHub: https://github.com/Bit-Devy
+
+--------
+<img align='center' src="https://github.com/Bit-Devy/Bit-Devy/blob/main/octocat-1765384759786.png" width="215">
